@@ -1,0 +1,39 @@
+
+
+
+
+
+
+
+
+
+
+
+h1 {
+    font-size: 50px;
+    border: 1px solid;
+    width: 100px;
+    height: 50px;
+    padding: 50px;
+}
+
+p {
+    /* størrelsen på teksten */
+    font-size: 50px;
+
+
+    /* hvor tjukk borderen er */
+    
+
+    width: 100%;
+    height: 1000px;
+
+
+    /* alt blir til uppercase */
+    text-transform: uppercase;
+
+    
+    
+    /* gjør borderen mere rund */
+    border-radius: 12px;
+}
